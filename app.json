@@ -1,0 +1,12 @@
+{
+  "name": "scrabble-checker2",
+  "displayName": "scrabble-checker2",
+  "expo": {
+    "name": "scrabble-checker2",
+    "slug": "scrabble-checker2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
